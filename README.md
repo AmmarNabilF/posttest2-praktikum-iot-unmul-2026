@@ -1,3 +1,5 @@
+#SISTEM KONTROL LAMPU BERRDASARKAN KEPEMILIKAN, MEMBACA SUHU RUANG, KELEMBAPAN, DAN PERINGATAN DINI AKAN KEBOCORAN GAS
+
 Sistem Smart Home merupakan integrasi teknologi Internet of Things (IoT) yang memanfaatkan konektivitas nirkabel untuk menciptakan ekosistem rumah yang responsif. Melalui penggunaan mikrokontroler ESP32, sistem ini tidak hanya memungkinkan pengendalian lampu secara jarak jauh, tetapi juga mengimplementasikan pemantauan kondisi lingkungan secara real-time. Dengan integrasi sensor DHT22 untuk suhu dan sensor MQ untuk deteksi kebocoran gas, sistem ini bertransformasi dari sekadar alat kendali menjadi solusi otomasi yang meningkatkan efisiensi energi serta standar keamanan rumah modern.
 
 Proyek Sederhana ini disusun oleh kelompok 6 yang terdiri dari;
